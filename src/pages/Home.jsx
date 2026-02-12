@@ -1,7 +1,5 @@
 import React from "react";
 import Hero from "../components/hero/Hero";
-import StepsSection from "../components/steps/StepsSection";
-import PricingSection from "../components/pricing/PricingSection";
 import FeatureSection from "../components/ui/FeatureSection";
 
 function Home() {
