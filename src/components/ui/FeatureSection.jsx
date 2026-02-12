@@ -12,7 +12,7 @@ function FeatureSection({ number, title, description, image, reverse }) {
             <div className="timeline-kicker">{number}</div>
             <h2>{title}</h2>
             <p>{description}</p>
-            <a  className="learn-more">
+            <a href="https://www.google.com/" className="learn-more">
               Learn More →
             </a>
           </div>
@@ -33,7 +33,7 @@ function FeatureSection({ number, title, description, image, reverse }) {
             <div className="timeline-kicker">{number}</div>
             <h2>{title}</h2>
             <p>{description}</p>
-            <a  className="learn-more">
+            <a href="https://www.google.com/" className="learn-more">
               Learn More →
             </a>
           </div>
